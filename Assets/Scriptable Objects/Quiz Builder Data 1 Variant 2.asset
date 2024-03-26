@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65dd0fb90277687469063fa6926bf412, type: 3}
+  m_Name: Quiz Builder Data 1 Variant 2
+  m_EditorClassIdentifier: 
+  _sizes: {x: 3, y: 1}
+  _cardsBundle:
+  - sprite: {fileID: 779432477, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -174635052, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 608308124, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -989722392, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 690425478, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -219009739, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -135583936, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: -90}
+  - sprite: {fileID: 1705062668, guid: 00714122f775d4d4db180f961d1bf1c0, type: 3}
+    rotation: {x: 0, y: 0, z: -90}
+  - sprite: {fileID: 1554831842, guid: d8a4f84c78dd3cd448423b04ca39c28c, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -769094600, guid: 09a725d0249ac9f4db60b87947ac7c91, type: 3}
+    rotation: {x: 0, y: 0, z: 0}

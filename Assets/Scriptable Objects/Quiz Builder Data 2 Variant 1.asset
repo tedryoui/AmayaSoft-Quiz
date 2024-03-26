@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65dd0fb90277687469063fa6926bf412, type: 3}
+  m_Name: Quiz Builder Data 2 Variant 1
+  m_EditorClassIdentifier: 
+  _sizes: {x: 3, y: 2}
+  _cardsBundle:
+  - sprite: {fileID: -869562677, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 722893016, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -878768273, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1879177338, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 1449267991, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1688165149, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -936519147, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 678994303, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1686392261, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 1240083141, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1476937219, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -324177081, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 58471628, guid: fb382c59d416f23479cdef19b6480f54, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1489839554, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 1101341688, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 1103393904, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 1693352581, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1939263958, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1442573375, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 2103086103, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1589844534, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1822257213, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: 1441451351, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1019107787, guid: 0c8231a250d4eb94daf0b3a45f849f2d, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1122926315, guid: f02041d990acc8c469a2e5d6b714e449, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
+  - sprite: {fileID: -1392800658, guid: f02041d990acc8c469a2e5d6b714e449, type: 3}
+    rotation: {x: 0, y: 0, z: 0}
